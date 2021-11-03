@@ -154,13 +154,6 @@ nav ul .dropdown-content li {
     border: 2px solid #1BC8BB;
 }
 
-.hero {
-    background: #E6F7F9;
-    padding: 144px 24px 220px 24px;
-    position: relative;
-    top: 88px;
-    z-index: -1;
-}
 
 .toggle-menu {
     display: none;
@@ -255,6 +248,15 @@ nav ul .dropdown-content li {
 }
 
 /* Hero section */
+
+.hero {
+    background: #E6F7F9;
+    padding: 144px 12px 220px 12px;
+    position: relative;
+    top: 88px;
+    z-index: -1;
+}
+
 .hero-text {
     width: 70rem;
     padding: 12px;
@@ -380,7 +382,7 @@ nav ul .dropdown-content li {
     
 }
 
-.title {
+.profile-text .title {
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 500;
