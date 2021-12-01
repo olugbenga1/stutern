@@ -1,2 +1,2 @@
 # stutern
-# A clone of stutern.com website
+## A clone of stutern.com website
